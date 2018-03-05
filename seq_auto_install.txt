@@ -1,0 +1,5 @@
+npm install -g sequelize-auto
+
+npm install -g mysql
+
+sequelize-auto -o "./models" -d inventory_db -h localhost -u root -p 3306 -x Run4g@ld -e mysql 
