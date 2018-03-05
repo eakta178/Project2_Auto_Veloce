@@ -1,0 +1,2 @@
+# Project2_Auto_Veloce
+This web app allows users to search for cars, even if you don’t know cars! Let’s face it, most people don’t have a specific understanding of what they truly want out of their next car. We at Team Cool Car, have simplified matters. We ask users to select from 3 different categories of driver – “Green, Commuter, Supercar”. Within these categories we ask pertinent questions which further sort, and ultimately display cars that the user’s needs would agree with.
